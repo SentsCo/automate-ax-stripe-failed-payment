@@ -16,6 +16,8 @@ You'll choose:
 - The HubSpot billing owner who should review every task.
 - Account authorization.
 
+Start with the setup prompt. The agent will create the Automate.ax project, guide you through connecting Stripe and HubSpot, and ask for values it cannot discover from your accounts.
+
 ## Manual setup
 
 If you prefer to set it up yourself:
